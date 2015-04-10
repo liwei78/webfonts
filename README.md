@@ -18,4 +18,3 @@
 }
 ```
 
-# If you have a wenfont, Pull Request it.All the fonts should be OPENSOURCE.
